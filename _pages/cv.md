@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, M.S. in Informatics, New York University, 2022
+* B.S. in Physics, B.S. in Finance, Nanjing University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apple: Machine Learning Engineer
+  * (Oct 2023 - present) Vision Foundation Model, SII
+  * (July 2023 - Oct 2023) Machine Learning Research, DMLI
+  * (Feb 2023 - July 2023) Siri Understanding, SII
+  * I joined Apple as an AIML Rotation Engineer, and rotated with above teams before deciding to join Vision Foundation Model team. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Google: Software Engineer Intern
+  * (May 2022 - Aug 2022) ADS
 
 Publications
 ======
@@ -53,12 +37,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for ACL 2024, NAACL WOAH 2024, ACL student research workshop 2023, ACL student research workshop 2022, ACL student research workshop 2020 
