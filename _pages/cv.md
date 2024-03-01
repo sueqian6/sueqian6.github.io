@@ -34,9 +34,7 @@ Empirical Analysis on Deceptive Prompts](https://arxiv.org/pdf/2402.13220.pdf)
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Talk on Gender stereotypes differ between male and female writings. [Video](https://www.youtube.com/watch?v=k0rAB-ym3uI)
   
 Service
 ======
