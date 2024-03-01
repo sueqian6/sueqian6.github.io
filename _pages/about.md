@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 Hi my friend! You found my homepage.
+
 I'm currently living in Seattle, WA. These days I have been working on multimodal llm research at Apple. If you are also interested in NLP/CV/Multimodal, let's connect.
+
 Before joinning Apple, I received my master's degree in Computer Science from New York University, Courant Institute of Mathematical Sciences in 2023, and my bachelor's degrees in Physics and Finance from Nanjing University in 2018.
-My hometown is Suzhou, Jiangsu, China.
+
+My hometown is Suzhou, Jiangsu, China. My MBTI is ENFJ.
 
 
 Photography
