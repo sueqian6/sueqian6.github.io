@@ -15,16 +15,16 @@ My hometown is Suzhou, Jiangsu, China.
 
 Photography
 ======
-I use Fujifilm X-T5 and DJI Mavic Air 2 to take photos. Check out my photos here: https://www.instagram.com/yusu.photography?igshid=MmIzYWVlNDQ5Yg%3D%3D
+I use Fujifilm X-T5 and DJI Mavic Air 2 to take photos. Check out my photos [here](https://www.instagram.com/yusu.photography?igshid=MmIzYWVlNDQ5Yg%3D%3D).
 
 Reading and Writing
 ======
-I enjoy reading literature and writing articles/fictions. Check out my booklist and articles here: https://www.douban.com/people/175474535/?_i=9314726DuUjTuu
+I enjoy reading literature and writing articles/fictions. Check out my booklist and articles [here](https://www.douban.com/people/175474535/?_i=9314726DuUjTuu).
 
 Daily Life
 ======
-I am active on Little Red Book. Check out my daily life here: https://www.xiaohongshu.com/user/profile/5659625b03eb840671550451
+I am active on Little Red Book. Check out my daily life [here](https://www.xiaohongshu.com/user/profile/5659625b03eb840671550451).
 
 Cooking and Baking
 ======
-I love sharing food with loved ones. Check out what I cooked and baked here: https://m.xiachufang.com/cook/125422777/
+I love sharing food with loved ones. Check out what I cooked and baked [here](https://m.xiachufang.com/cook/125422777/).
