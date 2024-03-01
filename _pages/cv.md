@@ -28,7 +28,7 @@ Work experience
 Publications
 ======
 * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
-Empirical Analysis on Deceptive Promp](https://arxiv.org/pdf/2402.13220.pdf)
+Empirical Analysis on Deceptive Prompts](https://arxiv.org/pdf/2402.13220.pdf)
 * Yusu Qian, Urwa Muaz, Ben Zhang, Jae Won Hyun. [Reducing gender bias in word-level language models with a gender-equalizing loss function (ACL-SRW 2019)](https://aclanthology.org/P19-2031.pdf)
 * Yusu Qian. [Gender Stereotypes Differ between Male and Female Writings (ACL-SRW 2019)](https://aclanthology.org/P19-2007.pdf)
   
