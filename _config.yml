@@ -22,17 +22,17 @@ repository               : "sueqian6/sueqian6.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ML Research / Traveling / Reading / Writing / Baking"
+  location         : "Seattle, WA"
+  employer         : "Apple Inc"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sueqian@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=kP0Q7L4AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/yusu-qian-nyu/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,6 +71,9 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  little red book  : https://www.xiaohongshu.com/user/profile/5659625b03eb840671550451
+  dou ban          : https://www.douban.com/people/175474535/?_i=9303637DuUjTuu
+  xia chu fang     : https://m.xiachufang.com/cook/125422777/
 
 
 # Site Settings
