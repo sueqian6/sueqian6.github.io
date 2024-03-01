@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yusu Qian's Home Page"
 title_separator          : "-"
-name                     : &name "Yusu Qian"
+name                     : &name "Yusu Qian 羽苏"
 description              : &description "Multimodal LLM Research at Apple Inc"
 url                      : https://sueqian6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
