@@ -27,6 +27,7 @@ Work experience
 
 Publications
 ======
+* Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) arXiv
 * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
 Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) arXiv
 * Yusu Qian, Urwa Muaz, Ben Zhang, Jae Won Hyun. [Reducing gender bias in word-level language models with a gender-equalizing loss function.](https://aclanthology.org/P19-2031.pdf) ACL-SRW 2019
