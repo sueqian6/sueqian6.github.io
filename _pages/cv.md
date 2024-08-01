@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, M.S. in Informatics, New York University, 2022
-* B.S. in Physics, B.S. in Finance, Nanjing University, 2018
+* M.S. in Computer Science, M.S. in Informatics, New York University, 2018 ~ 2022
+* B.S. in Physics, B.S. in Finance, Nanjing University, 2014 ~ 2018
 
 Work experience
 ======
@@ -39,4 +39,4 @@ Talks
   
 Service
 ======
-* Reviewer for ACL 2024, NAACL WOAH 2024, ACL student research workshop 2023, ACL student research workshop 2022, ACL student research workshop 2020 
+* Reviewer for ECCV 2024, ACL 2024, NAACL WOAH 2024, ACL student research workshop 2020-2024 
