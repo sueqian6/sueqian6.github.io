@@ -23,7 +23,8 @@ I use Fujifilm X-T5 and DJI Mavic Air 2 to take photos. Check out my photos [her
 Reading and Writing
 ======
 I enjoy reading literature and writing articles/fictions. Check out my booklists and movie lists [here](https://www.douban.com/people/175474535/?_i=9314726DuUjTuu).
-Some articles I wrote in Chinese: 纽约四年(https://www.douban.com/note/842247099/?dt_dapp=1), 我的南大物理四年(https://www.douban.com/note/842247099/?dt_dapp=1), 间隔年(https://www.douban.com/note/842650162/?dt_dapp=1)
+
+Some articles I wrote in Chinese: [纽约四年](https://www.douban.com/note/842247099/?dt_dapp=1), [我的南大物理四年](https://www.douban.com/note/842247099/?dt_dapp=1), [间隔年](https://www.douban.com/note/842650162/?dt_dapp=1)
 
 Daily Life
 ======
