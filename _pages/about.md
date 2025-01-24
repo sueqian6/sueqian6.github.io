@@ -36,9 +36,9 @@ I love sharing food with loved ones. Check out what I cooked and baked [here](ht
 
 Publications
 ======
-* Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) arXiv (MIA-Bench is released at [link](https://github.com/apple/ml-mia-bench))
+* Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) ICLR 2025 (MIA-Bench is released at [link](https://github.com/apple/ml-mia-bench))
 * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
-Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) arXiv (MAD-Bench is released at [link](https://github.com/apple/ml-mad-bench), we are also sharing MAD-Bench in the SafeGenAi workshop at NeurIPS 2024)
+Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) SafeGenAi workshop at NeurIPS 2024 (MAD-Bench is released at [link](https://github.com/apple/ml-mad-bench))
 * Yusu Qian, Urwa Muaz, Ben Zhang, Jae Won Hyun. [Reducing gender bias in word-level language models with a gender-equalizing loss function.](https://aclanthology.org/P19-2031.pdf) ACL-SRW 2019
 * Yusu Qian. [Gender Stereotypes Differ between Male and Female Writings.](https://aclanthology.org/P19-2007.pdf) ACL-SRW 2019
 
