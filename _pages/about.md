@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi my friend! You found my homepage.
+Hi my friend, and welcome to my homepage!
 
-I'm currently living in Seattle, WA. These days I have been working on multimodal llm research at Apple. If you are also interested in NLP/CV/Multimodal, let's connect. My email: yq729@nyu.edu.
+I’m currently based in Seattle, WA, and working on multimodal LLM research at Apple. If you're interested in NLP or Multimodal, feel free to reach out—I’d love to connect! You can contact me at yq729@nyu.edu.
 
-Before joinning Apple, I received my master's degree in Computer Science from New York University, Courant Institute of Mathematical Sciences in 2023, and my bachelor's degrees in Physics and Finance from Nanjing University in 2018.
+Before joining Apple, I earned my master’s degree in Computer Science from the Courant Institute of Mathematical Sciences at New York University in Jan 2023. Prior to that, I completed my bachelor’s degrees in Physics and Finance at Nanjing University in 2018.
 
-I'm from Suzhou, Jiangsu, China. My MBTI is ENFJ.
+I’m originally from Suzhou, Jiangsu, China. My MBTI type is ENFJ.
 
 
 Photography
 ======
-I use Fujifilm X-T5 and DJI Mavic Air 2 to take photos. Check out my photos [here](https://www.instagram.com/yusu.photography?igshid=MmIzYWVlNDQ5Yg%3D%3D).
+I use Fujifilm X-T5, Ricoh GR3 and DJI Mavic Air 2 to take photos. Check out my photos [here](https://www.instagram.com/yusu.photography?igshid=MmIzYWVlNDQ5Yg%3D%3D).
 
 Reading and Writing
 ======
@@ -34,9 +34,11 @@ Cooking and Baking
 ======
 I love sharing food with loved ones. Check out what I cooked and baked [here](https://m.xiachufang.com/cook/125422777/).
 
-Publications
+Publications and Preprints
 ======
+* Tsu-Jui Fu, Yusu Qian, Chen Chen, Wenze Hu, Zhe Gan, Yinfei Yang. [UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](https://arxiv.org/pdf/2503.12652)
 * Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) ICLR 2025 (MIA-Bench is released at [link](https://github.com/apple/ml-mia-bench))
+* Elmira Amirloo, Jean-Philippe Fauconnier, Christoph Roesmann, Christian Kerl, Rinu Boney, Yusu Qian, Zirui Wang, Afshin Dehghan, Yinfei Yang, Zhe Gan, Peter Grasch. [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://arxiv.org/pdf/2407.02477)
 * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
 Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) SafeGenAi workshop at NeurIPS 2024 (MAD-Bench is released at [link](https://github.com/apple/ml-mad-bench))
 * Yusu Qian, Urwa Muaz, Ben Zhang, Jae Won Hyun. [Reducing gender bias in word-level language models with a gender-equalizing loss function.](https://aclanthology.org/P19-2031.pdf) ACL-SRW 2019
@@ -51,9 +53,9 @@ Education
 Work experience
 ======
 * Apple: Machine Learning Engineer
-  * (Oct 2023 - present) Vision Foundation Model, SII
-  * (July 2023 - Oct 2023) Machine Learning Research, DMLI
-  * (Feb 2023 - July 2023) Siri Understanding, SII
+  * (Oct 2023 - present) Vision Foundation Model 
+  * (July 2023 - Oct 2023) Machine Learning Research
+  * (Feb 2023 - July 2023) Siri Understanding
   * I joined Apple as an AIML Rotation Engineer, and rotated with above teams before deciding to join Vision Foundation Model team. 
 
 * Google: Software Engineer Intern
