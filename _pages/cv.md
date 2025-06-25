@@ -27,7 +27,10 @@ Work experience
 
 Publications
 ======
+* Yusu Qian, Jiasen Lu, Tsu-Jui Fu, Xinze Wang, Chen Chen, Yinfei Yang, Wenze Hu, Zhe Gan. [GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](https://arxiv.org/abs/2505.11493) (We will release GIE-Bench ASAP. Email us if you'd like to receive a notification once it's released.) 
+* Tsu-Jui Fu, Yusu Qian, Chen Chen, Wenze Hu, Zhe Gan, Yinfei Yang. [UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](https://arxiv.org/pdf/2503.12652) ICCV 2025
 * Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) ICLR 2025 (MIA-Bench is released at [link](https://github.com/apple/ml-mia-bench))
+* Elmira Amirloo, Jean-Philippe Fauconnier, Christoph Roesmann, Christian Kerl, Rinu Boney, Yusu Qian, Zirui Wang, Afshin Dehghan, Yinfei Yang, Zhe Gan, Peter Grasch. [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://arxiv.org/pdf/2407.02477)
 * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
 Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) SafeGenAi workshop at NeurIPS 2024 (MAD-Bench is released at [link](https://github.com/apple/ml-mad-bench))
 * Yusu Qian, Urwa Muaz, Ben Zhang, Jae Won Hyun. [Reducing gender bias in word-level language models with a gender-equalizing loss function.](https://aclanthology.org/P19-2031.pdf) ACL-SRW 2019
