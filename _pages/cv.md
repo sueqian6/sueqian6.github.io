@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Apple: Machine Learning Engineer
-  * (Oct 2023 - present) Vision Foundation Model, SII
+  * (Oct 2023 - present) Vision Foundation Model, DMLI
   * (July 2023 - Oct 2023) Machine Learning Research, DMLI
   * (Feb 2023 - July 2023) Siri Understanding, SII
   * I joined Apple as an AIML Rotation Engineer, and rotated with above teams before deciding to join Vision Foundation Model team. 
