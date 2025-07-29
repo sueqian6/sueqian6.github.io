@@ -22,7 +22,7 @@ I use Fujifilm X-T5, Ricoh GR3 and DJI Mavic Air 2 to take photos. Check out my 
 
 Reading and Writing
 ======
-I enjoy reading literature and writing articles/fictions. Check out my [booklists](https://book.douban.com/people/175474535/collect) and [movie lists](https://movie.douban.com/people/175474535/collect) on Douban.
+I enjoy reading literature and writing articles/fictions. Check out my [book lists](https://book.douban.com/people/175474535/collect) and [movie lists](https://movie.douban.com/people/175474535/collect) on Douban.
 
 Some articles I wrote in Chinese: [纽约四年](https://www.douban.com/note/842247099/?dt_dapp=1), [我的南大物理四年](https://www.douban.com/note/842247099/?dt_dapp=1), [间隔年](https://www.douban.com/note/842650162/?dt_dapp=1)
 
