@@ -37,11 +37,10 @@ I love sharing food with loved ones. Check out what I cooked and baked [here](ht
 Publications and Preprints
 ======
 * Image Editing
-  * Yusu Qian, Eli Bocek-Rivele, Liangchen Song, Jialing Tong, Yinfei Yang, Jiasen Lu, Wenze Hu, Zhe Gan. [Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](https://arxiv.org/pdf/2510.19808)
+  * Yusu Qian, Eli Bocek-Rivele, Liangchen Song, Jialing Tong, Yinfei Yang, Jiasen Lu, Wenze Hu, Zhe Gan. [Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](https://arxiv.org/pdf/2510.19808) CVPR 2026
   * Yusu Qian, Jiasen Lu, Tsu-Jui Fu, Xinze Wang, Chen Chen, Yinfei Yang, Wenze Hu, Zhe Gan. [GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](https://arxiv.org/abs/2505.11493) (GIE-Bench is released at [link](https://sueqian6.github.io/GIE-Bench-web/))
   * Tsu-Jui Fu, Yusu Qian, Chen Chen, Wenze Hu, Zhe Gan, Yinfei Yang. [UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](https://arxiv.org/pdf/2503.12652) ICCV 2025
 * Benchmarks
-  * Yusu Qian, Cheng Wan, Chao Jia, Yinfei Yang, Qingyu Zhao, Zhe Gan. [PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection](https://arxiv.org/pdf/2510.23594) (PRISM-Bench is released at [link](https://github.com/JornyWan/PRISM-Bench))
   * Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnuer, Peter Grasch, Yinfei Yang, Zhe Gan. [MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2407.01509) ICLR 2025 (MIA-Bench is released at [link](https://github.com/apple/ml-mia-bench))
   * Yusu Qian, Haotian Zhang, Yinfei Yang, Zhe Gan. [How Easy is It to Fool Your Multimodal LLMs? An
 Empirical Analysis on Deceptive Prompts.](https://arxiv.org/pdf/2402.13220.pdf) SafeGenAi workshop at NeurIPS 2024 (MAD-Bench is released at [link](https://github.com/apple/ml-mad-bench))
