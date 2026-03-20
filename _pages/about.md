@@ -67,6 +67,4 @@ Work experience
 * Google: Software Engineer Intern
   * (May 2022 - Aug 2022) ADS
 
-
-
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gEBKulLxWfFG4R2OryXQ0chbhNG4FRAF4BGbj3OOO90&cl=ffffff&w=a"></script>
