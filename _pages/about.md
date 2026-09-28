@@ -9,7 +9,7 @@ redirect_from:
 
 Hi my friend, and welcome to my homepage!
 
-I’m currently based in Seattle, WA, and working on multimodal LLM research at Apple. If you're interested in NLP or Multimodal, feel free to reach out—I’d love to connect! You can contact me at yq729@nyu.edu.
+I’m currently based in San Francisco Bay Area, CA, and working on vision foundation model posttrain at Apple. 
 
 Before joining Apple, I earned my master’s degree in Computer Science from the Courant Institute of Mathematical Sciences at New York University in Jan 2023. Prior to that, I completed my bachelor’s degrees in Physics and Finance at Nanjing University in 2018.
 
